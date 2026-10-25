@@ -1,0 +1,17 @@
+
+# Eclipse workspace and IDE files
+.metadata/
+.settings/
+.project
+.classpath
+
+# Compiled Java files
+*.class
+
+# Build output
+build/
+target/
+
+# Operating system files
+.DS_Store
+Thumbs.db
